@@ -4,6 +4,7 @@ Healthcare Translation & Transcription Web App
 This is a web application designed to facilitate real-time transcription and translation of healthcare-related conversations. The app allows users to record audio, transcribe the spoken words, and translate the transcription into a selected language. It integrates with the MyMemory Translation API for translation services.
 
 Features
+
 Audio Recording: Record audio directly from the user's microphone.
 
 Real-Time Transcription: Transcribe the recorded audio into text using the Web Speech API.
@@ -15,6 +16,7 @@ Playback: Play back the recorded audio.
 Clear Functionality: Clear the transcription, translation, and selected language with a single button.
 
 Resources Used
+
 Frontend:
 
 React: A JavaScript library for building user interfaces.
@@ -37,13 +39,9 @@ GitHub: For hosting the repository.
 
 Vercel: For deployment
 
-Setup and Installation
-Prerequisites
-Node.js and npm (for the React frontend)
-
-Python 3.7+ (for the FastAPI backend)
 
 Usage
+
 Start Recording: Click the "Start Recording" button to begin recording audio. The button will change to "Stop Recording" while recording is in progress.
 
 Transcription: The transcribed text will appear in the "Result" textarea in real-time.
