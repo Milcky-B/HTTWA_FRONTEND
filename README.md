@@ -1,4 +1,6 @@
 Healthcare Translation & Transcription Web App
+
+
 This is a web application designed to facilitate real-time transcription and translation of healthcare-related conversations. The app allows users to record audio, transcribe the spoken words, and translate the transcription into a selected language. It integrates with the MyMemory Translation API for translation services.
 
 Features
